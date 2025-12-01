@@ -1,0 +1,24 @@
+{
+    "name": "playwright-cucumber-ts-framework",
+    "version": "1.0.0",
+    "description": "Test Automation Framework using Playwright, CucumberJS, and TypeScript",
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "keywords": [
+        "playwright",
+        "cucumber",
+        "typescript",
+        "automation",
+        "testing"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@cucumber/cucumber": "^10.3.1",
+        "@playwright/test": "^1.41.2",
+        "@types/node": "^20.11.19",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.3.3"
+    }
+}
